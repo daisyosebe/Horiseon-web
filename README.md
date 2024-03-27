@@ -9,4 +9,4 @@ WORK DONE:
 
 Repo link: https://github.com/daisyosebe/horiseon-web.git
 
-Git hub page deployment: https://daisyosebe.github.io/horiseon-web/ 
+Git hub page deployment: (https://daisyosebe.github.io/horiseon_web/)
